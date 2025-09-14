@@ -19,16 +19,16 @@ import { getTranslateLanguageFromConfig } from "./utils/language-utils";
 // 移除i18n导入以避免循环依赖
 
 // 定义站点语言
-const SITE_LANG = "en"; // 语言代码，例如：'en', 'zh_CN', 'ja' 等。
+const SITE_LANG = "zh_CN"; // 语言代码，例如：'en', 'zh_CN', 'ja' 等。
 
 export const siteConfig: SiteConfig = {
-	title: "Mizuki",
+	title: "天地自有道",
 	subtitle: "One demo website",
 
 	lang: SITE_LANG,
 
 	themeColor: {
-		hue: 210, // 主题色的默认色相，范围从 0 到 360。例如：红色：0，青色：200，蓝绿色：250，粉色：345
+		hue: 235, // 主题色的默认色相，范围从 0 到 360。例如：红色：0，青色：200，蓝绿色：250，粉色：345
 		fixed: false, // 对访问者隐藏主题色选择器
 	},
 	translate: {
@@ -86,13 +86,13 @@ export const siteConfig: SiteConfig = {
 
 		homeText: {
 			enable: true, // 在主页显示自定义文本
-			title: "Beautiful Mizuki!", // 主页横幅主标题
+			title: "人生之途，全力以赴。", // 主页横幅主标题
 
 			subtitle: [
-				"A Showcase Demo Site",
-				"Carousel Highlight: Innovation",
-				"Carousel Focus: User Experience",
-				"Carousel Spot: Core Advantages",
+				"路虽远，行则将至",
+				"今日埋首，明日昂首",
+				"心有光，何惧路长",
+				"晨间的墨香浸润，终将沉淀为思想的年轮",
 			],
 			typewriter: {
 				enable: true, // 启用副标题打字机效果
@@ -168,67 +168,103 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Archive,
 		// 支持自定义导航栏链接,并且支持多级菜单,3.1版本新加
 		{
-			name: "Links",
+			name: "项目",
 			url: "/links/",
 			icon: "material-symbols:link",
 			children: [
 				{
 					name: "GitHub",
-					url: "https://github.com/matsuzaka-yuki/Mizuki",
+					url: "https://github.com/gaoxingyu130",
 					external: true,
 					icon: "fa6-brands:github",
 				},
 				{
 					name: "Bilibili",
-					url: "https://space.bilibili.com/701864046",
+					url: "https://space.bilibili.com/gaoxingyu130",
 					external: true,
 					icon: "fa6-brands:bilibili",
 				},
 				{
-					name: "Gitee",
-					url: "https://gitee.com/matsuzakayuki/Mizuki",
+					name: "主站",
+					url: "https://www.qqfeel.com",
+					external: true,
+					icon: "mdi:git",
+				},
+					{
+					name: "网盘",
+					url: "https://pan.qqfeel.com",
+					external: true,
+					icon: "mdi:git",
+				},
+					{
+					name: "音乐",
+					url: "https://music.qqfeel.com",
+					external: true,
+					icon: "mdi:git",
+				},
+					{
+					name: "视频",
+					url: "https://tv1.qqfeel.com",
+					external: true,
+					icon: "mdi:git",
+				},
+					{
+					name: "WordPress博客",
+					url: "https://.qqfeel.com",
+					external: true,
+					icon: "mdi:git",
+				},
+					{
+					name: "Ntion博客",
+					url: "https://no.qqfeel.com",
+					external: true,
+					icon: "mdi:git",
+				},
+					{
+					name: "Hexo博客",
+					url: "https://hexo.qqfeel.com",
 					external: true,
 					icon: "mdi:git",
 				},
 			],
 		},
 		{
-			name: "My",
+			name: "我的",
 			url: "/content/",
 			icon: "material-symbols:person",
 			children: [
 				LinkPreset.Anime,
 				LinkPreset.Diary,
 				{
-					name: "Gallery",
+					name: "相册",
 					url: "/albums/",
 					icon: "material-symbols:photo-library",
 				},
 			],
 		},
 		{
-			name: "About",
+			name: "关于",
 			url: "/content/",
 			icon: "material-symbols:info",
 			children: [LinkPreset.About, LinkPreset.Friends],
 		},
 		{
-			name: "Others",
+			name: "其他",
 			url: "#",
 			icon: "material-symbols:more-horiz",
 			children: [
 				{
-					name: "Projects",
+					name: "展示",
 					url: "/projects/",
 					icon: "material-symbols:work",
 				},
 				{
-					name: "Skills",
+					name: "技能",
 					url: "/skills/",
 					icon: "material-symbols:psychology",
 				},
 				{
-					name: "Timeline",
+					name: "时间线",
 					url: "/timeline/",
 					icon: "material-symbols:timeline",
 				},
@@ -239,28 +275,28 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/avatar.png", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
-	name: "Mizuki",
-	bio: "The world is big, you have to go and see",
+	name: "Gw",
+	bio: "一个分享知识的个人博客。",
 	links: [
 		{
 			name: "Bilibli",
 			icon: "fa6-brands:bilibili",
-			url: "https://space.bilibili.com/701864046",
+			url: "https://space.bilibili.com/gaoxingyu130",
 		},
 		{
 			name: "Gitee",
 			icon: "mdi:git",
-			url: "https://gitee.com/matsuzakayuki",
+			url: "https://gitee.com/gaoxingyu130",
 		},
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
-			url: "https://github.com/matsuzaka-yuki",
+			url: "https://github.com/gaoxingyu130",
 		},
 		{
 			name: "Discord",
 			icon: "fa6-brands:discord",
-			url: "https://discord.gg/MqW6TcQtVM",
+			url: "https://discord.gg/gaoxingyu130",
 		},
 	],
 	// Umami统计部份，记得在layout插入Umami的head标签
@@ -292,8 +328,8 @@ export const commentConfig: CommentConfig = {
 };
 
 export const announcementConfig: AnnouncementConfig = {
-	title: "Announcement", // 公告标题
-	content: "Welcome to my blog! This is a sample announcement.", // 公告内容
+	title: "公告", // 公告标题
+	content: "这是一个在学习前端的学生的小窝，可能还会有日产生活的分享。相信你可以在这里找到对你有用的知识和教程(⁠≧⁠▽⁠≦⁠)", // 公告内容
 	closable: true, // 允许用户关闭公告
 	link: {
 		enable: true, // 启用链接

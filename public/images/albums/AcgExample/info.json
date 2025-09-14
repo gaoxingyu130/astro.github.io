@@ -1,9 +1,9 @@
 {
-	"title": "Some lovely pictures",
+	"title": "动漫图片",
 	"hidden": false,
-	"description": "The world is vast, and you have to go explore it.",
+	"description": "收藏的动漫图",
 	"date": "2025-08-01",
-	"location": "Bilibili",
+	"location": "互联网",
 	"tags": ["Kawai", "Cute", "Moe"],
 	"layout": "masonry",
 	"columns": 3

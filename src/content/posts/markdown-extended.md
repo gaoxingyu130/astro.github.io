@@ -5,7 +5,7 @@ updated: 2024-11-29
 description: 'Read more about Markdown features in Mizuki'
 image: ''
 tags: [Demo, Example, Markdown, mizuki]
-category: 'Examples'
+category: '科技'
 draft: false 
 ---
 

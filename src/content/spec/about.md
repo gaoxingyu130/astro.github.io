@@ -1,54 +1,31 @@
-# About This Site
+# 关于我
+## 这是我的主要站点，**www.qqfeel.com** 
 
-This website is built with the **Astro** framework using the [Mizuki](https://github.com/matsuzaka-yuki/mizuki) theme.
+### 🎨我热爱编程与技术：享受用代码实现想法的过程，在实践中锤炼逻辑思维；既热衷从 0 到 1 的设计，也专注于将产品打磨至无限优化。
+ 
+- **同时痴迷硬件与折腾：惊叹于芯片的技术魅力，闲暇时热衷淘硬件、装机、搭建黑苹果与 NAS，对性能参数有着极致追求。** 
 
-::github{repo="matsuzaka-yuki/Mizuki"}
+- **亦珍视生活与热爱：偏爱古诗词之美，仰慕苏东坡之风；向往 “诗与远方”，践行 “且将新火试新茶，诗酒趁年华” 的生活态度。** 
 
-## 🌟 Theme Features
+### 🔍博客初衷
+搭建个人博客是我念叨了很久的事儿：高中时靠大佬博客汲取养分，便立下 “以后要有自己的博客” 的 flag；大学时被玩乐分心搁置，后来备战计算机考研又耗- 光了时间，可惜最后没能上岸；直到工作后才真正明白博客对技术人的价值 —— 于是借着这股 “新旧念头交织” 的劲儿，写下了这篇 About，权当我的第一篇博文。
 
-### 🎨 Design & User Experience
-- **Modern & Elegant Design** - Clean, minimalist interface with beautiful typography
-- **Fully Responsive** - Optimized for all devices from mobile to desktop
-- **Dark/Light Mode** - Automatic theme switching with smooth transitions
-- **Beautiful Typography** - Enhanced readability with JetBrains Mono font
-- **Smooth Animations** - Fluid page transitions and interactive elements
 
-### 🔍 Content & Search
-- **Advanced Search** - Powered by [Pagefind](https://pagefind.app/) for fast, accurate results
-- **Enhanced Markdown** - Extended syntax with code highlighting and math support
-- **Interactive Table of Contents** - Auto-scroll navigation for long articles
-- **RSS Feed Generation** - Stay updated with automatic feed generation
-- **Reading Time Estimation** - Know how long articles take to read
-- **Post Categorization** - Organize content with tags and categories
+### 🛠 倒逼自己 “真懂”，练会清晰表达
+我是个 “选择性完美主义”：生活邋遢，但对排版、文案、截图细节却格外较真。这种习惯让我写博客前必须反复梳理内容、复盘思路 —— 很多时候 “以为懂了”，真要写出来才发现逻辑混乱，而这个 “逼自己说清楚” 的过程，才是真的加深了记忆。
 
-### 🌐 Internationalization
-- **Multi-language Support** - Real-time translation capabilities
-- **Auto Language Detection** - Detects user preferences automatically
-- **Client-side Translation** - Powered by Edge Translate technology
-- **10+ Languages Supported** - EN, ZH-CN, ZH-TW, JA, KO, ES, TH, VI, ID, TR
+- **享受分享带来的精神满足** 
+**分享的回报从不是物质的，而是那种单纯的、发自内心的愉悦感。这种无关功利的满足，让我很着迷。
 
-### 📱 Special Pages
-- **Anime Tracking Page** - Track your anime watching progress with ratings
-- **Friends Links Page** - Showcase friend websites with beautiful cards
-- **Diary/Moments Page** - Share life moments like social media posts
-- **Archive Page** - Organized timeline view of all posts
-- **About Page** - Customizable personal introduction (this page!)
+### 🎯 留下成长的痕迹，不辜负时光
+刚毕业的我在一家创业公司成长，不确定未来如何，但不想回头时一片空白。谁都有 “看过去的自己觉得傻” 的时刻，但正是那些经历让我们成长。如今- **人生四分之一已过，越发遗憾初高中没多记录，更想趁现在留住当下。
 
-### 🛠 Technical Features
-- **Enhanced Code Blocks** - Powered by [Expressive Code](https://expressive-code.com/)
-- **Math Support** - LaTeX rendering with KaTeX for mathematical expressions
-- **Image Optimization** - PhotoSwipe gallery with lazy loading
-- **SEO Optimized** - Built-in sitemap and meta tags for better search visibility
-- **Performance Optimized** - Fast loading with caching and optimization
-- **Comment System Ready** - Integration support for Twikoo comments
+### 🔍 借博客链接更大的世界
+互联网打破了空间限制，写博客让我发现有许多同频的人在看博、写博 —— 这些素未谋面的同行和未知的知识，让世界变得更开阔。
 
-### 🎯 Advanced Markdown Features
-- **Callouts & Admonitions** - Beautiful info boxes with `> [!NOTE]`, `> [!TIP]`, `> [!WARNING]`
-- **Mathematical Equations** - Write LaTeX math with `$inline$` and `$$block$$` syntax
-- **GitHub Cards** - Embed repository cards with `::github{repo="user/repo"}`
-- **Syntax Highlighting** - Advanced code highlighting with line numbers
-- **Copy Code Buttons** - Easy code copying functionality
+### 🌐 传递帮助，让技术 “接力”
+作为萌新，深知摸索技术时 “找不到对症文章” 的无奈，也感激那些帮我解决问题的博文。所以我想：要么回馈分享，要么填补空白，把 “被帮助的温暖” 传递给更多人。
 
----
 
-*Built with ❤️ using Astro and inspired by modern web design principles.*
+
+*联系方式  邮箱：1178977@qq.com*
