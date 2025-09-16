@@ -1,4 +1,3 @@
-import { factory } from "typescript";
 import type {
 	AnnouncementConfig,
 	CommentConfig,
@@ -190,37 +189,37 @@ export const navBarConfig: NavBarConfig = {
 					external: true,
 					icon: "mdi:git",
 				},
-					{
+				{
 					name: "网盘",
 					url: "https://pan.qqfeel.com",
 					external: true,
 					icon: "mdi:git",
 				},
-					{
+				{
 					name: "音乐",
 					url: "https://music.qqfeel.com",
 					external: true,
 					icon: "mdi:git",
 				},
-					{
+				{
 					name: "视频",
 					url: "https://tv1.qqfeel.com",
 					external: true,
 					icon: "mdi:git",
 				},
-					{
+				{
 					name: "WordPress博客",
 					url: "https://.qqfeel.com",
 					external: true,
 					icon: "mdi:git",
 				},
-					{
+				{
 					name: "Ntion博客",
 					url: "https://no.qqfeel.com",
 					external: true,
 					icon: "mdi:git",
 				},
-					{
+				{
 					name: "Hexo博客",
 					url: "https://hexo.qqfeel.com",
 					external: true,
@@ -329,7 +328,8 @@ export const commentConfig: CommentConfig = {
 
 export const announcementConfig: AnnouncementConfig = {
 	title: "公告", // 公告标题
-	content: "这是一个在学习前端的学生的小窝，可能还会有日产生活的分享。相信你可以在这里找到对你有用的知识和教程(⁠≧⁠▽⁠≦⁠)", // 公告内容
+	content:
+		"这是一个在学习前端的学生的小窝，可能还会有日产生活的分享。相信你可以在这里找到对你有用的知识和教程(⁠≧⁠▽⁠≦⁠)", // 公告内容
 	closable: true, // 允许用户关闭公告
 	link: {
 		enable: true, // 启用链接
@@ -496,17 +496,17 @@ export const pioConfig: import("./types/config").PioConfig = {
 	mode: "draggable", // 默认为可拖拽模式
 	hiddenOnMobile: true, // 默认在移动设备上隐藏
 	dialog: {
-		welcome: "Welcome to Mizuki Website!", // 欢迎词
+		welcome: "欢迎光临我的博客", // 欢迎词
 		touch: [
-			"What are you doing?",
-			"Stop touching me!",
-			"HENTAI!",
+			"欢迎光临我的博客",
+			"欢迎光临我的博客",
+			"欢迎光临我的博客",
 			"Don't bully me like that!",
 		], // 触摸提示
 		home: "Click here to go back to homepage!", // 首页提示
 		skin: ["Want to see my new outfit?", "The new outfit looks great~"], // 换装提示
 		close: "QWQ See you next time~", // 关闭提示
-		link: "https://github.com/matsuzaka-yuki/Mizuki", // 关于链接
+		link: "https://github.com/gaoxingyu130", // 关于链接
 	},
 };
 
