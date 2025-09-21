@@ -4,9 +4,11 @@ published: 2025-09-15
 tags: [影音]
 category: 影音
 draft: false
-
+image:
+  url: '/images/a/xhxa1.jpg'
+  alt: '许慧欣'
 ---
-![一首来自许慧欣早期的歌曲](http://img.qqfeel.com/u%3D3505806682%2C3142662747%26fm%3D253%26fmt%3Dauto.webp.jpg)
+![一首来自许慧欣早期的歌曲](/images/a/xhxa1.jpg)
 
 
 

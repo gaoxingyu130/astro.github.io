@@ -5,7 +5,7 @@ tags: [影音]
 category: 影音
 draft: false
 ---
-![蔡依林](http://img.qqfeel.com/u%3D4221310830%2C1143076145%26fm%3D253%26fmt%3Dauto%26app%3D138%26f%3DJPEG.jpg)
+![蔡依林](/images/a/cyla1.jpg)
 
 ### 早年经历
 1998 年，蔡依林参加 MTV 音乐台举办的 “新生卡位战”，以冠军之姿筹备出道。她毕业于景美女中，后以保送方式进入辅仁大学英文系就读。

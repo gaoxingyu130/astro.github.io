@@ -6,7 +6,7 @@ tags: [影音]
 category: 影音
 draft: false
 ---
-![米光美保](http://img.qqfeel.com/u%3D435044159%2C1209764317%26fm%3D253%26fmt%3Dauto%26app%3D120%26f%3DJPEG.webp.jpg)
+![米光美保](/images/a/mgmba1.jpg)
 
 
 ## 米光美保（Yonemitsu Miho）是日本歌手、前偶像，曾是东京表演玩偶组合的成员。

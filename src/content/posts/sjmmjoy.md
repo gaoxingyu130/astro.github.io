@@ -6,7 +6,7 @@ tags: [影音]
 category: 影音
 draft: false
 ---
-![石井明美](http://img.qqfeel.com/u%3D3097341843%2C738733217%26fm%3D253%26fmt%3Dauto%26app%3D138%26f%3DJPEG.webp.jpg)
+![石井明美](/images/a/sjmma1.jpg)
 ### 基本信息：
 石井明美1965 年 8 月 26 日出生于日本千叶县。与著名视觉系乐团 X JAPAN 的 YOSHIKI（林佳树）和 TOSHI（出山利三）是中学同级生。高校时期，是馆山市温水泳池的看视员。
 ### 演艺经历：
